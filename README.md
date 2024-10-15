@@ -13,4 +13,6 @@ This is a collection of mini projects I’ve created over time using web develop
 
 
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/6ae37c25-49e3-4719-8ad9-dbc72f5a7b6e)
+
