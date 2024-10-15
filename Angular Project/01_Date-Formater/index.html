@@ -1,1 +1,17 @@
+<!DOCTYPE html>
+<html ng-app="time">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="http://code.angularjs.org/1.0.8/angular.min.js"></script>
+    <script src="script.js"></script>
+    <title>Date Formatter</title>
+</head>
+<body>
+    <div ng-controller="Ctrl2">
+        Date format: <input ng-model="format"><hr/>
+        Current time is:<span my-current-time="format"></span>
+    </div>
+</body>
+</html>
